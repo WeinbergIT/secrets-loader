@@ -4,6 +4,8 @@
     "keywords": ["bref", "secrets", "aws-ssm", "ssm"],
     "license": "MIT",
     "type": "library",
+    "minimum-stability": "dev",
+    "prefer-stable": true
     "autoload": {
         "psr-4": {
             "Bref\\Secrets\\": "src/"
