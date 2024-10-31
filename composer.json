@@ -1,5 +1,5 @@
 {
-    "name": "bref/secrets-loader",
+    "name": "weinbergit/secrets-loader",
     "description": "Load secret values from SSM into environment variables ",
     "keywords": ["bref", "secrets", "aws-ssm", "ssm"],
     "license": "MIT",
